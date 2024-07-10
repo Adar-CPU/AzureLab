@@ -1,0 +1,9 @@
+{
+	"name": "adfgitola",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bfb70e57-8232-4f50-ae4e-8297d12c200b",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
